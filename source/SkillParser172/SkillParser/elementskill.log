@@ -1,0 +1,692 @@
+SKILL: id = 2 , param = 0.000000 
+SKILL: id = 3 , param = 0.000000 
+SKILL: id = 4 , param = 5.000000 
+SKILL: id = 5 , param = 7.300000 
+SKILL: id = 6 , param = 0.000000 
+SKILL: id = 7 , param = 20.400000 
+SKILL: id = 8 , param = 6.000000 
+SKILL: id = 10 , param = 20.400000 
+SKILL: id = 13 , param = 0.000000 
+SKILL: id = 17 , param = 18.400000 
+SKILL: id = 18 , param = 18.400000 
+SKILL: id = 20 , param = 15.000000 
+SKILL: id = 22 , param = 15.000000 
+SKILL: id = 23 , param = 15.000000 
+SKILL: id = 24 , param = 15.000000 
+SKILL: id = 25 , param = 15.000000 
+SKILL: id = 26 , param = 15.000000 
+SKILL: id = 27 , param = 15.000000 
+SKILL: id = 28 , param = 15.000000 
+SKILL: id = 29 , param = 15.000000 
+SKILL: id = 30 , param = 15.000000 
+SKILL: id = 31 , param = 15.000000 
+SKILL: id = 32 , param = 15.000000 
+SKILL: id = 33 , param = 15.000000 
+SKILL: id = 34 , param = 15.000000 
+SKILL: id = 35 , param = 15.000000 
+SKILL: id = 36 , param = 15.000000 
+SKILL: id = 37 , param = 15.000000 
+SKILL: id = 38 , param = 15.000000 
+SKILL: id = 39 , param = 15.000000 
+SKILL: id = 46 , param = 15.000000 
+SKILL: id = 48 , param = 15.000000 
+SKILL: id = 49 , param = 15.000000 
+SKILL: id = 50 , param = 15.000000 
+SKILL: id = 51 , param = 15.000000 
+SKILL: id = 52 , param = 15.000000 
+SKILL: id = 59 , param = 10.600000 
+SKILL: id = 4 , param = 5.000000 
+SKILL: id = 5 , param = 7.300000 
+SKILL: id = 7 , param = 20.400000 
+SKILL: id = 10 , param = 20.400000 
+SKILL: id = 17 , param = 18.400000 
+SKILL: id = 18 , param = 18.400000 
+SKILL: id = 20 , param = 15.000000 
+SKILL: id = 21 , param = 15.000000 
+SKILL: id = 22 , param = 15.000000 
+SKILL: id = 23 , param = 15.000000 
+SKILL: id = 24 , param = 15.000000 
+SKILL: id = 25 , param = 15.000000 
+SKILL: id = 26 , param = 15.000000 
+SKILL: id = 27 , param = 15.000000 
+SKILL: id = 28 , param = 15.000000 
+SKILL: id = 29 , param = 15.000000 
+SKILL: id = 30 , param = 15.000000 
+SKILL: id = 31 , param = 15.000000 
+SKILL: id = 32 , param = 15.000000 
+SKILL: id = 33 , param = 15.000000 
+SKILL: id = 34 , param = 15.000000 
+SKILL: id = 35 , param = 15.000000 
+SKILL: id = 36 , param = 15.000000 
+SKILL: id = 37 , param = 15.000000 
+SKILL: id = 38 , param = 15.000000 
+SKILL: id = 39 , param = 15.000000 
+SKILL: id = 46 , param = 15.000000 
+SKILL: id = 48 , param = 15.000000 
+SKILL: id = 49 , param = 15.000000 
+SKILL: id = 50 , param = 15.000000 
+SKILL: id = 51 , param = 15.000000 
+SKILL: id = 52 , param = 15.000000 
+SKILL: id = 59 , param = 10.600000 
+SKILL: id = 65 , param = 6.000000 
+SKILL: id = 69 , param = 8.000000 
+SKILL: id = 73 , param = 6.300000 
+SKILL: id = 75 , param = 5.000000 
+SKILL: id = 81 , param = 20.400000 
+SKILL: id = 84 , param = 10.000000 
+SKILL: id = 85 , param = 20.400000 
+SKILL: id = 86 , param = 6.000000 
+SKILL: id = 87 , param = 20.400000 
+SKILL: id = 88 , param = 20.400000 
+SKILL: id = 90 , param = 20.400000 
+SKILL: id = 91 , param = 20.400000 
+SKILL: id = 92 , param = 20.400000 
+SKILL: id = 93 , param = 20.400000 
+SKILL: id = 94 , param = 18.500000 
+SKILL: id = 95 , param = 18.500000 
+SKILL: id = 97 , param = 20.400000 
+SKILL: id = 98 , param = 20.400000 
+SKILL: id = 99 , param = 20.400000 
+SKILL: id = 100 , param = 16.000000 
+SKILL: id = 108 , param = 4.900000 
+SKILL: id = 109 , param = 3.200000 
+SKILL: id = 110 , param = 4.300000 
+SKILL: id = 113 , param = 18.400000 
+SKILL: id = 114 , param = 18.400000 
+SKILL: id = 115 , param = 18.400000 
+SKILL: id = 116 , param = 18.400000 
+SKILL: id = 117 , param = 18.400000 
+SKILL: id = 118 , param = 18.400000 
+SKILL: id = 119 , param = 18.400000 
+SKILL: id = 120 , param = 18.400000 
+SKILL: id = 125 , param = 18.400000 
+SKILL: id = 126 , param = 18.400000 
+SKILL: id = 127 , param = 18.400000 
+SKILL: id = 128 , param = 18.400000 
+SKILL: id = 129 , param = 8.000000 
+SKILL: id = 130 , param = 18.400000 
+    Skill405Stub ():SkillStub (405)    Skill405Stub ():SkillStub (405) 
+    Skill405Stub ():SkillStub (405) 
+    { 
+    } 
+    Skill405Stub ():SkillStub (405) 
+    { 
+    } 
+    Skill405Stub ():SkillStub (405) 
+    { 
+        cls                 = 0; 
+        name                = L"¿ñ¡¤º®±ùÈÐÓò"; 
+        nativename          = "¿ñ¡¤º®±ùÈÐÓò"; 
+        icon                = "º®±ùÈÐÓò.dds"; 
+        max_level           = 1; 
+        type                = 1; 
+        allow_ride          = 0; 
+        attr                = 1; 
+        rank                = 31; 
+        eventflag           = 0; 
+        is_senior           = 1; 
+        is_inherent         = 0; 
+        is_movingcast       = 0; 
+        npcdelay            = 0; 
+        showorder           = 1116; 
+        allow_forms         = 1; 
+        apcost              = 200; 
+        apgain              = 0; 
+        doenchant           = 1; 
+        dobless             = 1; 
+        arrowcost           = 0; 
+        allow_land          = 1; 
+        allow_air           = 1; 
+        allow_water         = 1; 
+        notuse_in_combat    = 0; 
+        restrict_corpse     = 0; 
+        restrict_change     = 0; 
+        restrict_attach     = 0; 
+        auto_attack         = 1; 
+        time_type           = 0; 
+        long_range          = 0; 
+        posdouble           = 0; 
+        clslimit            = 0; 
+        commoncooldown      = 0; 
+        commoncooldowntime  = 0; 
+        itemcost            = 0; 
+        feature             = 0; 
+        combosk_preskill    = 0; 
+        combosk_interval    = 0; 
+        combosk_nobreak     = 0; 
+        effect              = "2ÈÐÓò.sgc"; 
+        aerial_effect       = "(null)"; 
+        range.type          = 2; 
+        has_stateattack     = 0; 
+        skillruneattr       = 0; 
+        gfx_patch           = ""; 
+        hook_name           = "0"; 
+        independent         = 0; 
+        unc2                = 0; 
+        NOP_2               = 0; 
+        new_cls             = 1; 
+        new_sphera          = 0; 
+    } 
+    Skill405Stub ():SkillStub (405) 
+    { 
+        cls                 = 0; 
+        name                = L"¿ñ¡¤º®±ùÈÐÓò"; 
+        nativename          = "¿ñ¡¤º®±ùÈÐÓò"; 
+        icon                = "º®±ùÈÐÓò.dds"; 
+        max_level           = 1; 
+        type                = 1; 
+        allow_ride          = 0; 
+        attr                = 1; 
+        rank                = 31; 
+        eventflag           = 0; 
+        is_senior           = 1; 
+        is_inherent         = 0; 
+        is_movingcast       = 0; 
+        npcdelay            = 0; 
+        showorder           = 1116; 
+        allow_forms         = 1; 
+        apcost              = 200; 
+        apgain              = 0; 
+        doenchant           = 1; 
+        dobless             = 1; 
+        arrowcost           = 0; 
+        allow_land          = 1; 
+        allow_air           = 1; 
+        allow_water         = 1; 
+        notuse_in_combat    = 0; 
+        restrict_corpse     = 0; 
+        restrict_change     = 0; 
+        restrict_attach     = 0; 
+        auto_attack         = 1; 
+        time_type           = 0; 
+        long_range          = 0; 
+        posdouble           = 0; 
+        clslimit            = 0; 
+        commoncooldown      = 0; 
+        commoncooldowntime  = 0; 
+        itemcost            = 0; 
+        feature             = 0; 
+        combosk_preskill    = 0; 
+        combosk_interval    = 0; 
+        combosk_nobreak     = 0; 
+        effect              = "2ÈÐÓò.sgc"; 
+        aerial_effect       = ""; 
+        range.type          = 2; 
+        has_stateattack     = 0; 
+        skillruneattr       = 0; 
+        gfx_patch           = ""; 
+        hook_name           = "0"; 
+        independent         = 0; 
+        unc2                = 0; 
+        NOP_2               = 0; 
+        new_cls             = 1; 
+        new_sphera          = 0; 
+    } 
+    Skill405Stub ():SkillStub (405) 
+    { 
+        cls                 = 0; 
+        name                = L"¿ñ¡¤º®±ùÈÐÓò"; 
+        nativename          = "¿ñ¡¤º®±ùÈÐÓò"; 
+        icon                = "º®±ùÈÐÓò.dds"; 
+        max_level           = 1; 
+        type                = 1; 
+        allow_ride          = 0; 
+        attr                = 1; 
+        rank                = 31; 
+        eventflag           = 0; 
+        is_senior           = 1; 
+        is_inherent         = 0; 
+        is_movingcast       = 0; 
+        npcdelay            = 0; 
+        showorder           = 1116; 
+        allow_forms         = 1; 
+        apcost              = 200; 
+        apgain              = 0; 
+        doenchant           = 1; 
+        dobless             = 1; 
+        arrowcost           = 0; 
+        allow_land          = 1; 
+        allow_air           = 1; 
+        allow_water         = 1; 
+        notuse_in_combat    = 0; 
+        restrict_corpse     = 0; 
+        restrict_change     = 0; 
+        restrict_attach     = 0; 
+        auto_attack         = 1; 
+        time_type           = 0; 
+        long_range          = 0; 
+        posdouble           = 0; 
+        clslimit            = 0; 
+        commoncooldown      = 0; 
+        commoncooldowntime  = 0; 
+        itemcost            = 0; 
+        feature             = 0; 
+        combosk_preskill    = 0; 
+        combosk_interval    = 0; 
+        combosk_nobreak     = 0; 
+        effect              = "2ÈÐÓò.sgc"; 
+        aerial_effect       = ""; 
+        range.type          = 2; 
+        has_stateattack     = 0; 
+        skillruneattr       = 0; 
+        gfx_patch           = ""; 
+        hook_name           = "0"; 
+        independent         = 0; 
+        unc2                = 0; 
+        NOP_2               = 0; 
+        new_cls             = 1; 
+        new_sphera          = 0; 
+    } 
+    Skill405Stub ():SkillStub (405) 
+    { 
+        cls                 = 0; 
+        name                = L"¿ñ¡¤º®±ùÈÐÓò"; 
+        nativename          = "¿ñ¡¤º®±ùÈÐÓò"; 
+        icon                = "º®±ùÈÐÓò.dds"; 
+        max_level           = 1; 
+        type                = 1; 
+        allow_ride          = 0; 
+        attr                = 1; 
+        rank                = 31; 
+        eventflag           = 0; 
+        is_senior           = 1; 
+        is_inherent         = 0; 
+        is_movingcast       = 0; 
+        npcdelay            = 0; 
+        showorder           = 1116; 
+        allow_forms         = 1; 
+        apcost              = 200; 
+        apgain              = 0; 
+        doenchant           = 1; 
+        dobless             = 1; 
+        arrowcost           = 0; 
+        allow_land          = 1; 
+        allow_air           = 1; 
+        allow_water         = 1; 
+        notuse_in_combat    = 0; 
+        restrict_corpse     = 0; 
+        restrict_change     = 0; 
+        restrict_attach     = 0; 
+        auto_attack         = 1; 
+        time_type           = 0; 
+        long_range          = 0; 
+        posdouble           = 0; 
+        clslimit            = 0; 
+        commoncooldown      = 0; 
+        commoncooldowntime  = 0; 
+        itemcost            = 0; 
+        feature             = 0; 
+        combosk_preskill    = 0; 
+        combosk_interval    = 0; 
+        combosk_nobreak     = 0; 
+        effect              = "2ÈÐÓò.sgc"; 
+        aerial_effect       = ""; 
+        range.type          = 2; 
+        has_stateattack     = 0; 
+        skillruneattr       = 0; 
+        gfx_patch           = ""; 
+        hook_name           = "0"; 
+        independent         = 0; 
+        unc2                = 0; 
+        NOP_2               = 0; 
+        new_cls             = 1; 
+        new_sphera          = 0; 
+        pre_skills.push_back (std::pair < ID, int >(67, 10));        restrict_weapons.push_back (5);    } 
+    Skill405Stub ():SkillStub (405) 
+    { 
+        cls                 = 0; 
+        name                = L"¿ñ¡¤º®±ùÈÐÓò"; 
+        nativename          = "¿ñ¡¤º®±ùÈÐÓò"; 
+        icon                = "º®±ùÈÐÓò.dds"; 
+        max_level           = 1; 
+        type                = 1; 
+        allow_ride          = 0; 
+        attr                = 1; 
+        rank                = 31; 
+        eventflag           = 0; 
+        is_senior           = 1; 
+        is_inherent         = 0; 
+        is_movingcast       = 0; 
+        npcdelay            = 0; 
+        showorder           = 1116; 
+        allow_forms         = 1; 
+        apcost              = 200; 
+        apgain              = 0; 
+        doenchant           = 1; 
+        dobless             = 1; 
+        arrowcost           = 0; 
+        allow_land          = 1; 
+        allow_air           = 1; 
+        allow_water         = 1; 
+        notuse_in_combat    = 0; 
+        restrict_corpse     = 0; 
+        restrict_change     = 0; 
+        restrict_attach     = 0; 
+        auto_attack         = 1; 
+        time_type           = 0; 
+        long_range          = 0; 
+        posdouble           = 0; 
+        clslimit            = 0; 
+        commoncooldown      = 0; 
+        commoncooldowntime  = 0; 
+        itemcost            = 0; 
+        feature             = 0; 
+        combosk_preskill    = 0; 
+        combosk_interval    = 0; 
+        combosk_nobreak     = 0; 
+        effect              = "2ÈÐÓò.sgc"; 
+        aerial_effect       = ""; 
+        range.type          = 2; 
+        has_stateattack     = 0; 
+        skillruneattr       = 0; 
+        gfx_patch           = ""; 
+        hook_name           = "0"; 
+        independent         = 0; 
+        unc2                = 0; 
+        NOP_2               = 0; 
+        new_cls             = 1; 
+        new_sphera          = 0; 
+        pre_skills.push_back (std::pair < ID, int >(67, 10)); 
+        restrict_weapons.push_back (5); 
+    } 
+    Skill405Stub ():SkillStub (405) 
+    { 
+        cls                 = 0; 
+        name                = L"¿ñ¡¤º®±ùÈÐÓò"; 
+        nativename          = "¿ñ¡¤º®±ùÈÐÓò"; 
+        icon                = "º®±ùÈÐÓò.dds"; 
+        max_level           = 1; 
+        type                = 1; 
+        allow_ride          = 0; 
+        attr                = 1; 
+        rank                = 31; 
+        eventflag           = 0; 
+        is_senior           = 1; 
+        is_inherent         = 0; 
+        is_movingcast       = 0; 
+        npcdelay            = 0; 
+        showorder           = 1116; 
+        allow_forms         = 1; 
+        apcost              = 200; 
+        apgain              = 0; 
+        doenchant           = 1; 
+        dobless             = 1; 
+        arrowcost           = 0; 
+        allow_land          = 1; 
+        allow_air           = 1; 
+        allow_water         = 1; 
+        notuse_in_combat    = 0; 
+        restrict_corpse     = 0; 
+        restrict_change     = 0; 
+        restrict_attach     = 0; 
+        auto_attack         = 1; 
+        time_type           = 0; 
+        long_range          = 0; 
+        posdouble           = 0; 
+        clslimit            = 0; 
+        commoncooldown      = 0; 
+        commoncooldowntime  = 0; 
+        itemcost            = 0; 
+        feature             = 0; 
+        combosk_preskill    = 0; 
+        combosk_interval    = 0; 
+        combosk_nobreak     = 0; 
+        effect              = "2ÈÐÓò.sgc"; 
+        aerial_effect       = ""; 
+        range.type          = 2; 
+        has_stateattack     = 0; 
+        skillruneattr       = 0; 
+        gfx_patch           = ""; 
+        hook_name           = "0"; 
+        independent         = 0; 
+        unc2                = 0; 
+        NOP_2               = 0; 
+        new_cls             = 1; 
+        new_sphera          = 0; 
+        pre_skills.push_back (std::pair < ID, int >(67, 10)); 
+        restrict_weapons.push_back (5); 
+        statestub.push_back (new State4 ()); 
+        statestub.push_back (new State4 ()); 
+        statestub.push_back (new State4 ()); 
+    } 
+    Skill405Stub ():SkillStub (405) 
+    { 
+        cls                 = 0; 
+        name                = L"¿ñ¡¤º®±ùÈÐÓò"; 
+        nativename          = "¿ñ¡¤º®±ùÈÐÓò"; 
+        icon                = "º®±ùÈÐÓò.dds"; 
+        max_level           = 1; 
+        type                = 1; 
+        allow_ride          = 0; 
+        attr                = 1; 
+        rank                = 31; 
+        eventflag           = 0; 
+        is_senior           = 1; 
+        is_inherent         = 0; 
+        is_movingcast       = 0; 
+        npcdelay            = 0; 
+        showorder           = 1116; 
+        allow_forms         = 1; 
+        apcost              = 200; 
+        apgain              = 0; 
+        doenchant           = 1; 
+        dobless             = 1; 
+        arrowcost           = 0; 
+        allow_land          = 1; 
+        allow_air           = 1; 
+        allow_water         = 1; 
+        notuse_in_combat    = 0; 
+        restrict_corpse     = 0; 
+        restrict_change     = 0; 
+        restrict_attach     = 0; 
+        auto_attack         = 1; 
+        time_type           = 0; 
+        long_range          = 0; 
+        posdouble           = 0; 
+        clslimit            = 0; 
+        commoncooldown      = 0; 
+        commoncooldowntime  = 0; 
+        itemcost            = 0; 
+        feature             = 0; 
+        combosk_preskill    = 0; 
+        combosk_interval    = 0; 
+        combosk_nobreak     = 0; 
+        effect              = "2ÈÐÓò.sgc"; 
+        aerial_effect       = ""; 
+        range.type          = 2; 
+        has_stateattack     = 0; 
+        skillruneattr       = 0; 
+        gfx_patch           = ""; 
+        hook_name           = "0"; 
+        independent         = 0; 
+        unc2                = 0; 
+        NOP_2               = 0; 
+        new_cls             = 1; 
+        new_sphera          = 0; 
+        pre_skills.push_back (std::pair < ID, int >(67, 10)); 
+        restrict_weapons.push_back (5); 
+        statestub.push_back (new State1 ()); 
+        statestub.push_back (new State2 ()); 
+        statestub.push_back (new State3 ()); 
+    } 
+    Skill405Stub ():SkillStub (405) 
+    { 
+        cls                 = 0; 
+        name                = L"¿ñ¡¤º®±ùÈÐÓò"; 
+        nativename          = "¿ñ¡¤º®±ùÈÐÓò"; 
+        icon                = "º®±ùÈÐÓò.dds"; 
+        max_level           = 1; 
+        type                = 1; 
+        allow_ride          = 0; 
+        attr                = 1; 
+        rank                = 31; 
+        eventflag           = 0; 
+        is_senior           = 1; 
+        is_inherent         = 0; 
+        is_movingcast       = 0; 
+        npcdelay            = 0; 
+        showorder           = 1116; 
+        allow_forms         = 1; 
+        apcost              = 200; 
+        apgain              = 0; 
+        doenchant           = 1; 
+        dobless             = 1; 
+        arrowcost           = 0; 
+        allow_land          = 1; 
+        allow_air           = 1; 
+        allow_water         = 1; 
+        notuse_in_combat    = 0; 
+        restrict_corpse     = 0; 
+        restrict_change     = 0; 
+        restrict_attach     = 0; 
+        auto_attack         = 1; 
+        time_type           = 0; 
+        long_range          = 0; 
+        posdouble           = 0; 
+        clslimit            = 0; 
+        commoncooldown      = 0; 
+        commoncooldowntime  = 0; 
+        itemcost            = 0; 
+        feature             = 0; 
+        combosk_preskill    = 0; 
+        combosk_interval    = 0; 
+        combosk_nobreak     = 0; 
+        effect              = "2ÈÐÓò.sgc"; 
+        aerial_effect       = ""; 
+        range.type          = 2; 
+        has_stateattack     = 0; 
+        skillruneattr       = 0; 
+        gfx_patch           = ""; 
+        hook_name           = "0"; 
+        independent         = 0; 
+        unc2                = 0; 
+        NOP_2               = 0; 
+        new_cls             = 1; 
+        new_sphera          = 0; 
+        pre_skills.push_back (std::pair < ID, int >(67, 10)); 
+        restrict_weapons.push_back (5); 
+#ifdef _SKILL_SERVER 
+        statestub.push_back (new State1 ()); 
+        statestub.push_back (new State2 ()); 
+        statestub.push_back (new State3 ()); 
+#endif 
+    } 
+    Skill405Stub ():SkillStub (405) 
+    { 
+        cls                 = 0; 
+        name                = L"¿ñ¡¤º®±ùÈÐÓò"; 
+        nativename          = "¿ñ¡¤º®±ùÈÐÓò"; 
+        icon                = "º®±ùÈÐÓò.dds"; 
+        max_level           = 1; 
+        type                = 1; 
+        allow_ride          = 0; 
+        attr                = 1; 
+        rank                = 31; 
+        eventflag           = 0; 
+        is_senior           = 1; 
+        is_inherent         = 0; 
+        is_movingcast       = 0; 
+        npcdelay            = 0; 
+        showorder           = 1116; 
+        allow_forms         = 1; 
+        apcost              = 200; 
+        apgain              = 0; 
+        doenchant           = 1; 
+        dobless             = 1; 
+        arrowcost           = 0; 
+        allow_land          = 1; 
+        allow_air           = 1; 
+        allow_water         = 1; 
+        notuse_in_combat    = 0; 
+        restrict_corpse     = 0; 
+        restrict_change     = 0; 
+        restrict_attach     = 0; 
+        auto_attack         = 1; 
+        time_type           = 0; 
+        long_range          = 0; 
+        posdouble           = 0; 
+        clslimit            = 0; 
+        commoncooldown      = 0; 
+        commoncooldowntime  = 0; 
+        itemcost            = 0; 
+        feature             = 0; 
+        combosk_preskill    = 0; 
+        combosk_interval    = 0; 
+        combosk_nobreak     = 0; 
+        effect              = "2ÈÐÓò.sgc"; 
+        aerial_effect       = ""; 
+        range.type          = 2; 
+        has_stateattack     = 0; 
+        skillruneattr       = 0; 
+        gfx_patch           = ""; 
+        hook_name           = "0"; 
+        independent         = 0; 
+        unc2                = 0; 
+        NOP_2               = 0; 
+        new_cls             = 1; 
+        new_sphera          = 0; 
+        pre_skills.push_back (std::pair < ID, int >(67, 10)); 
+        restrict_weapons.push_back (5); 
+    } 
+    Skill405Stub ():SkillStub (405) 
+    { 
+        cls                 = 0; 
+        name                = L"¿ñ¡¤º®±ùÈÐÓò"; 
+        nativename          = "¿ñ¡¤º®±ùÈÐÓò"; 
+        icon                = "º®±ùÈÐÓò.dds"; 
+        max_level           = 1; 
+        type                = 1; 
+        allow_ride          = 0; 
+        attr                = 1; 
+        rank                = 31; 
+        eventflag           = 0; 
+        is_senior           = 1; 
+        is_inherent         = 0; 
+        is_movingcast       = 0; 
+        npcdelay            = 0; 
+        showorder           = 1116; 
+        allow_forms         = 1; 
+        apcost              = 200; 
+        apgain              = 0; 
+        doenchant           = 1; 
+        dobless             = 1; 
+        arrowcost           = 0; 
+        allow_land          = 1; 
+        allow_air           = 1; 
+        allow_water         = 1; 
+        notuse_in_combat    = 0; 
+        restrict_corpse     = 0; 
+        restrict_change     = 0; 
+        restrict_attach     = 0; 
+        auto_attack         = 1; 
+        time_type           = 0; 
+        long_range          = 0; 
+        posdouble           = 0; 
+        clslimit            = 0; 
+        commoncooldown      = 0; 
+        commoncooldowntime  = 0; 
+        itemcost            = 0; 
+        feature             = 0; 
+        combosk_preskill    = 0; 
+        combosk_interval    = 0; 
+        combosk_nobreak     = 0; 
+        effect              = "2ÈÐÓò.sgc"; 
+        aerial_effect       = ""; 
+        range.type          = 2; 
+        has_stateattack     = 0; 
+        skillruneattr       = 0; 
+        gfx_patch           = ""; 
+        hook_name           = "0"; 
+        independent         = 0; 
+        unc2                = 0; 
+        NOP_2               = 0; 
+        new_cls             = 1; 
+        new_sphera          = 0; 
+        pre_skills.push_back (std::pair < ID, int >(67, 10)); 
+        restrict_weapons.push_back (5); 
+#ifdef _SKILL_SERVER 
+        statestub.push_back (new State1 ()); 
+        statestub.push_back (new State2 ()); 
+        statestub.push_back (new State3 ()); 
+#endif 
+    } 

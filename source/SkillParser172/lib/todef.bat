@@ -1,0 +1,1 @@
+"C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.32.31326\bin\Hostx64\x86\dumpbin.exe" /exports "D:\vs\SkillParser172\lib\elementskill.dll" > "D:\vs\SkillParser172\lib\elementskill.def"

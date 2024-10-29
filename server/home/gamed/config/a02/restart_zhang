@@ -1,0 +1,10 @@
+#!/bin/sh
+
+/usr/bin/killall gs
+/usr/bin/killall gs_instance
+/bin/sleep 4
+cd /home/zhangyu/game
+./gs &
+./gs gs02 &
+./gs_instance is01&
+

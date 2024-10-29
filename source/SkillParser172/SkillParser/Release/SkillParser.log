@@ -1,0 +1,22 @@
+﻿  config.cpp
+  ElementSkill.cpp
+D:\vs\SkillParser172\SkillParser\ElementSkill.cpp(16,25): warning C4273: GNET::ElementSkill::GetCoolingTime: несовместимое связывание dll
+D:\vs\SkillParser172\SkillParser\ElementSkill.h(442,13): message : см. предыдущее определение "GetCoolingTime"
+D:\vs\SkillParser172\SkillParser\ElementSkill.cpp(28,27): warning C4273: GNET::ElementSkill::GetPraydistance: несовместимое связывание dll
+D:\vs\SkillParser172\SkillParser\ElementSkill.h(443,15): message : см. предыдущее определение "GetPraydistance"
+D:\vs\SkillParser172\SkillParser\ElementSkill.cpp(46,27): warning C4273: GNET::ElementSkill::GetMpcost: несовместимое связывание dll
+D:\vs\SkillParser172\SkillParser\ElementSkill.h(444,15): message : см. предыдущее определение "GetMpcost"
+D:\vs\SkillParser172\SkillParser\ElementSkill.cpp(52,27): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\vs\SkillParser172\SkillParser\ElementSkill.cpp(58,25): warning C4273: GNET::ElementSkill::GetCoolDownLimit: несовместимое связывание dll
+D:\vs\SkillParser172\SkillParser\ElementSkill.h(445,13): message : см. предыдущее определение "GetCoolDownLimit"
+D:\vs\SkillParser172\SkillParser\ElementSkill.cpp(70,25): warning C4273: GNET::ElementSkill::GetCostShieldEnergy: несовместимое связывание dll
+D:\vs\SkillParser172\SkillParser\ElementSkill.h(446,13): message : см. предыдущее определение "GetCostShieldEnergy"
+D:\vs\SkillParser172\SkillParser\ElementSkill.cpp(82,25): warning C4273: GNET::ElementSkill::GetCoolingTime: несовместимое связывание dll
+D:\vs\SkillParser172\SkillParser\ElementSkill.h(447,13): message : см. предыдущее определение "GetCoolingTime"
+  SkillParser.cpp
+     Создается библиотека D:\vs\SkillParser172\Release\SkillParser.lib и объект D:\vs\SkillParser172\Release\SkillParser.exp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 411 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  SkillParser.vcxproj -> D:\vs\SkillParser172\Release\SkillParser.exe

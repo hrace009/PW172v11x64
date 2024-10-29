@@ -1,0 +1,8 @@
+#!/bin/sh
+
+/usr/bin/killall gs
+/bin/sleep 8
+cd /home/zhangyu/game
+./gs gs01>game1.log&
+#./gs gs02>game2.log&
+./gs arena01  gs.conf gmserver.conf gsalias.conf arena02 arena03 arena04 is01 is02 is05 is06 is07 is08 is09 is10 is11 is12 is13 is14 is15 is16 is17 is18 is19 is20 is21 is22 is23 is24 is25 is26 bg01 bg02 bg03 bg04 bg05 bg06 > game_all.log
